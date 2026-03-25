@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // If you use a custom domain or deploy at root, you can keep base as '/'.
 export default defineConfig({
   plugins: [react()],
-  base: "/",
+  base: "/bemanning-prototype-v1",
 });
